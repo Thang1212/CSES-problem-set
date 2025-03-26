@@ -28,6 +28,7 @@ Each solution is implemented in **C++**, **Python**, or **JavaScript**, dependin
 
 ## 🎯 Goals
 - Improve my algorithmic thinking.
+- Focusing on optimizing time and space complexity in C++
 - Strengthen my skills in competitive programming.
 - Help others who are solving the CSES Problem Set.
 
