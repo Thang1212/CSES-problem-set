@@ -16,12 +16,12 @@ The solutions are categorized based on problem topics:
 - **Advanced Techniques**
 - **Geometry**
 
-Each solution is implemented in **C++**, **Python**, or **JavaScript**, depending on the problem and my approach.
+Each solution is implemented in **C++**, **Python**, depending on the problem and my approach.
 
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cses-solutions.git
+	git clone https://github.com/Thang1212/CSES-problem-set.git
    ```
 2. Navigate to the desired problem category.
 3. Run the solution with the appropriate compiler/interpreter.
